@@ -35,3 +35,4 @@ function sumTheSimpleWay(nums) {
 
 console.log(sumTheSimpleWay([1, 2, 3, 4, 5]));
 
+// 15:07
